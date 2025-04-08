@@ -1,39 +1,69 @@
-### 👋 Hey there, I'm Amrender singh!
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
 
-I'm a passionate **Software Engineer** who just completed a **B.Tech in CSE**, currently working as a **System Engineer**. I'm always exploring ways to make tech smarter and more useful — whether it's tracking assets at work or building cool side projects.
-
----
-
-### 🚀 What I'm Up To
-- 👨‍💻 Learning and improving in **Data Structures & Algorithms** using **Python** and **C++**.
-- 🌱 Building full-stack applications with **React**, **React Native**, **Firebase**, and **Firestore**.
-- 🎯 Exploring real-world psychology: lie detection, persuasion, influence, and emotional control.
+<p align="center">
+  🚀 Code Explorer | 🎨 UI/UX Tinkerer | 🧠 Psychology Enthusiast <br>
+  Building things that blend tech, mind, and purpose.
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, C++, JavaScript
-- **Frontend:** React, React Native
-- **Backend:** Firebase, Firestore, Node.js (exploring)
-- **Tools & Platforms:** Git, GitHub, Redux, Firebase Functions, Expo, VS Code
+## 🧑‍💻 About Me
+
+- 🎓 Recent B.Tech grad in **Computer Science**
+- 💼 Currently a **System Engineer**, solving real-world tech challenges
+- 🧠 Learning **DSA** in **Python & C++** (because logic is beautiful)
+- 🛠️ Love crafting apps with **React**, **React Native**, and **Firebase**
+- 🧩 Passionate about decoding human behavior through **Psychology**
+- 🎯 Always working on something cool — from idea to execution
 
 ---
 
-### 📚 Interests
-- 💡 Community apps for education and workplace collaboration
-- 🧠 Psychology & behavior analysis
-- 🎧 Creating custom audio components
-- 🎮 Interactive UI/UX with animations
+## 🌐 Tech Playground
+
+```bash
+💻 Languages:     Python | C++ | JavaScript
+🌍 Frontend:      React | React Native | Tailwind | Expo
+🔥 Backend:       Firebase | Firestore | Node.js (learning)
+🧰 Tools & Love:  Git | Redux | VS Code | Figma | Framer Motion
+```
 
 ---
 
-### 💬 Let's Connect!
-Feel free to reach out for collaborations, tech talk, or just to say hi!
+## ✨ Current Goals
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]((https://www.linkedin.com/in/amrinder-gill-32527b288/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages&style=flat)]()
+- 📘 Mastering algorithms, one line at a time
+- 🎙️ Building reusable components — even audio ones with zero UI
+- 💬 Exploring human interaction in tech: chat, emotion, psychology
+- 🌱 Creating intuitive UI with subtle animations and clean UX
 
 ---
 
-> _"Stay curious, keep building, and never stop learning."_
+## 📈 GitHub Vibes
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧠 Fun Facts
+
+- I once wanted to be a psychologist 👀
+- I believe design should *feel* — not just *look*
+- Learning never ends. Curiosity never dies.
+
+---
+
+<h3 align="center">Let's Connect and Build Something Awesome 🤝</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge" /></a>
+</p>
+
+---
+
+> "Think deeply, build boldly, and design beautifully." ✨
