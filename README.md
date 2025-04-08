@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Amrinder Gill</h1>
 
 <p align="center">
   🚀 Code Explorer | 🎨 UI/UX Tinkerer | 🧠 Psychology Enthusiast <br>
@@ -41,9 +41,9 @@
 ## 📈 GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrindergill666&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amrindergill666&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
