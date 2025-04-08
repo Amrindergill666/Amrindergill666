@@ -5,7 +5,6 @@ I'm a passionate **Software Engineer** who just completed a **B.Tech in CSE**, c
 ---
 
 ### 🚀 What I'm Up To
-- 🔧 Managing and tracking company assets (iPads, Macs, Windows) at my current role.
 - 👨‍💻 Learning and improving in **Data Structures & Algorithms** using **Python** and **C++**.
 - 🌱 Building full-stack applications with **React**, **React Native**, **Firebase**, and **Firestore**.
 - 🎯 Exploring real-world psychology: lie detection, persuasion, influence, and emotional control.
