@@ -1,4 +1,4 @@
-### 👋 Hey there, I'm [Your Name]!
+### 👋 Hey there, I'm Amrender singh!
 
 I'm a passionate **Software Engineer** who just completed a **B.Tech in CSE**, currently working as a **System Engineer**. I'm always exploring ways to make tech smarter and more useful — whether it's tracking assets at work or building cool side projects.
 
