@@ -30,7 +30,7 @@ I'm a passionate **Software Engineer** who just completed a **B.Tech in CSE**, c
 ### 💬 Let's Connect!
 Feel free to reach out for collaborations, tech talk, or just to say hi!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/amrinder-gill-32527b288/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)]((https://www.linkedin.com/in/amrinder-gill-32527b288/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages&style=flat)]()
 
 ---
