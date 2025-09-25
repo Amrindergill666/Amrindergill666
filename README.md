@@ -59,9 +59,10 @@
 <h3 align="center">Let's Connect and Build Something Awesome 🤝</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/amrinder-gill-32527b288"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:gillamrinder733@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://berserk.ninja/"><img src="https://img.shields.io/badge/Website-111?logo=vercel&style=for-the-badge" /></a>
+</p>
 </p>
 
 ---
