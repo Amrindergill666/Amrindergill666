@@ -61,7 +61,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amrinder-gill-32527b288"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:gillamrinder733@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://berserk.ninja/"><img src="https://img.shields.io/badge/Website-111?logo=vercel&style=for-the-badge" /></a>
+  <a href="https://berserk.ninja/"><img src="https://img.shields.io/badge/Berserk-f2f1ef?logo=codecrafters&logoColor=dc5b46&color=f2f1ef&style=for-the-badge" /></a>
 </p>
 </p>
 
