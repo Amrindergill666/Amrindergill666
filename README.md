@@ -46,15 +46,6 @@
 - 🔒 Deep-diving into network security, API hardening, and cloud security best practices.
 - 🌱 Creating accessible, performant UI components with subtle micro-animations.
 
----
-
-## 📈 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrindergill666&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amrindergill666&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
